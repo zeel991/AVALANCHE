@@ -93,7 +93,15 @@ dashboard - https://dashboard-phi-two-55.vercel.app
 user side - https://user-app-zeta-neon.vercel.app
 merchant side  - https://merchant-app-ruby.vercel.app/
 npm package - https://www.npmjs.com/package/cpay-kit
+
 ```
+## Example QR
+
+<img width="357" height="411" alt="image" src="https://github.com/user-attachments/assets/fd656e87-9be1-4879-bb1d-d60136254795" />
+
+## Output 
+
+<img width="938" height="662" alt="image" src="https://github.com/user-attachments/assets/67217760-4264-4db6-9e9d-88e3298ca645" />
 
 ---
 

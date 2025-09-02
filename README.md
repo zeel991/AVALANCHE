@@ -43,7 +43,7 @@ npm install cpay-kit
 Clone the repository and follow setup instructions to run the dashboard:
 
 ```bash
-git clone https://github.com/<your-username>/cpay.git
+git clone https://github.com/zeel991/cpay.git
 cd cpay
 npm install
 npm run start
